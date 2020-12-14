@@ -8,5 +8,9 @@ SE04 Day7
 + Khách hàng sẽ được đặt phòng thông qua tiếp tân hoặc nhân viên bán hàng. Checkin, checkout và thanh toán thông qua tiếp tân.
 	
 ### 2. Business Objectives:
++ Hoàn thành các prototype đạt được các yêu cầu đề ra của khách hàng trong 2 tuần.
++ Hoàn thiện và cài đặt phần mềm trên các máy tính của hệ thống khách sạn trong 2 tháng.
++ Hoàn thành quá trình chạy thử, fix các bug phát sinh trong quá trình chạy thử nghiệm sản phẩm (Dự kiến 2 tuần).
 + Hoàn thành và chạy thử các tính năng và bảo mật của hệ thống trong 2 tháng.
 + Đáp ứng các nhu cầu được đưa ra.
++ Bàn giao sản phẩm cho khách hàng.
